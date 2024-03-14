@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#3366CC</color>
+    <color name="red">#FF0000</color>
+    <color name="fadegray">#FC808080</color>
+    <color name="temp">#5EFFFFFF</color>
+    <color name="purple">#8E4ADA </color>
+    <color name="shimmer_color">#54ECE4E4</color>
+</resources>
